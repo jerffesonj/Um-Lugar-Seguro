@@ -1,5 +1,2 @@
-*.aspx linguist-language=C#
-
-$ linguist --breakdown
-100.00% C#
-
+*.cs linguist-detectable=true
+*.shader linguist-detectable=false
